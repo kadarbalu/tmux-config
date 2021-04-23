@@ -1,4 +1,6 @@
-### Comfortable tmux
+### Comfortable tmux config
+
+Place it to ~/.tmux.conf
 
 ```bash
 unbind C-b
