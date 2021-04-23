@@ -1,1 +1,1 @@
-# tmux-config
+# Minimalist tmux config file
