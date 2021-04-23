@@ -1,6 +1,6 @@
 ### Comfortable tmux
 
-'''bash
+```bash
 unbind C-b
 set-option -g prefix C-a
 bind-key C-a send-prefix
@@ -12,4 +12,4 @@ set-window-option -g mode-keys vi
 
 bind b setw synchronize-panes
 bind r source-file ~/.tmux.conf \; display-message "Config reloaded..."
-'''
+```
